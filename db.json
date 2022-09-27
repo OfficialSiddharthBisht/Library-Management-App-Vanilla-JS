@@ -1,0 +1,13 @@
+{
+  "book-list": [
+    {
+      "bookName": "Harry Potter",
+      "author": "JK Roling",
+      "bookDescription": "Fiction and magic",
+      "price": "500",
+      "category": "Fiction",
+      "dateControl": {},
+      "id": 1
+    }
+  ]
+}
